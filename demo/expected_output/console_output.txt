@@ -1,0 +1,21 @@
+
+=============================================================
+Demo complete in 2.3 seconds
+=============================================================
+
+Cell-type composition:
+  cell types tested:       7 
+  significant (BH < 0.05): 2 
+
+Pseudobulk DGE (fibroblasts):
+  genes tested:            1997 
+  up intracranial:         59 
+  up extracranial:         61 
+  recovery of planted intracranial genes: 98% 
+  recovery of planted extracranial genes: 100% 
+
+Output written to demo/output/:
+  demo_celltype_composition.pdf
+  demo_celltype_composition_stats.csv
+  demo_volcano_fibroblast.pdf
+  demo_pseudobulk_dge.csv
